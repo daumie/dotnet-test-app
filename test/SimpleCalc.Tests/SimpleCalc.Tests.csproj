@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CalcMvcWeb\CalcMvcWeb.csproj" />
+    <ProjectReference Include="..\..\SimpleCalc\SimpleCalc.csproj" />
   </ItemGroup>
 
 </Project>

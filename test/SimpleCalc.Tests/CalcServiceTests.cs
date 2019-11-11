@@ -1,10 +1,10 @@
-﻿using CalcMvcWeb.Services;
+﻿using SimpleCalc.Services;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using Xunit;
 
-namespace CalcMvcWeb.Tests
+namespace SimpleCalc.Tests
 {
     public class CalcServiceTests
     {

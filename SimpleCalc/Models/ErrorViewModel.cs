@@ -1,6 +1,6 @@
 using System;
 
-namespace CalcMvcWeb.Models
+namespace SimpleCalc.Models
 {
     public class ErrorViewModel
     {

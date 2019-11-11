@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using CalcMvcWeb.Models;
+using SimpleCalc.Models;
 
-namespace CalcMvcWeb.Controllers
+namespace SimpleCalc.Controllers
 {
     public class HomeController : Controller
     {

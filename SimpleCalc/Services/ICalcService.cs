@@ -1,4 +1,4 @@
-﻿namespace CalcMvcWeb.Services
+﻿namespace SimpleCalc.Services
 {
     public interface ICalcService
     {

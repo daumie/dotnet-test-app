@@ -1,3 +1,5 @@
-# .NET Calc Application with 30 tests
+# A simple ASP.NET Core Calculator  Application with Unit Tests
 
-ASP .NET Core calculator web app sample with unit tests
+[![CircleCI](https://circleci.com/gh/daumie/dotnet-test-app.svg?style=svg)](https://circleci.com/gh/daumie/dotnet-test-app)
+
+Simple ASP.NET Core calculator  application  with unit tests.

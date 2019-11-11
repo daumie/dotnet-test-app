@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using CalcMvcWeb.Models;
-using CalcMvcWeb.Services;
+using SimpleCalc.Models;
+using SimpleCalc.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CalcMvcWeb.Controllers
+namespace SimpleCalc.Controllers
 {
     public class CalcController : Controller
     {
